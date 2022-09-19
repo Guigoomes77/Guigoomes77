@@ -20,7 +20,6 @@
 ### Entre em contato comigo nessas redes abaixos!
 <div>
 <a href="https://www.instagram.com/theguiigomes/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "guizinho0805@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilherme-henrique-gomes-de-lima-2376801aa/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div

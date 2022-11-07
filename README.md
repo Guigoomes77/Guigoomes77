@@ -1,6 +1,6 @@
 ### Eai! Eu sou o Gui Goomes 77
 
-- Estudando: JavaScript 📚
+- 📚 Estudando: JavaScript 
 - 😄 Pronouns: ele/dele
 - 👨‍🎓 Técnologo em ADS: em andamento 25% Concluido...
 

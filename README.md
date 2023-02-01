@@ -2,7 +2,7 @@
 
 - 📚 Estudando: JavaScript 
 - 😄 Pronouns: ele/dele
-- 👨‍🎓 Técnologo em ADS: em andamento 25% Concluido...
+- 👨‍🎓 Técnologo em ADS: em andamento 50% Concluido...
 
 <div align="center">
   <a href="https://github.com/Guigoomes77">
